@@ -1,0 +1,11 @@
+D:\visioalstdio\Restfule\SportsWeb\SportsWeb.Application\bin\Debug\net8.0\SportsWeb.Application.deps.json
+D:\visioalstdio\Restfule\SportsWeb\SportsWeb.Application\bin\Debug\net8.0\SportsWeb.Application.dll
+D:\visioalstdio\Restfule\SportsWeb\SportsWeb.Application\bin\Debug\net8.0\SportsWeb.Application.pdb
+D:\visioalstdio\Restfule\SportsWeb\SportsWeb.Application\obj\Debug\net8.0\SportsWeb.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\visioalstdio\Restfule\SportsWeb\SportsWeb.Application\obj\Debug\net8.0\SportsWeb.Application.AssemblyInfoInputs.cache
+D:\visioalstdio\Restfule\SportsWeb\SportsWeb.Application\obj\Debug\net8.0\SportsWeb.Application.AssemblyInfo.cs
+D:\visioalstdio\Restfule\SportsWeb\SportsWeb.Application\obj\Debug\net8.0\SportsWeb.Application.csproj.CoreCompileInputs.cache
+D:\visioalstdio\Restfule\SportsWeb\SportsWeb.Application\obj\Debug\net8.0\SportsWeb.Application.dll
+D:\visioalstdio\Restfule\SportsWeb\SportsWeb.Application\obj\Debug\net8.0\refint\SportsWeb.Application.dll
+D:\visioalstdio\Restfule\SportsWeb\SportsWeb.Application\obj\Debug\net8.0\SportsWeb.Application.pdb
+D:\visioalstdio\Restfule\SportsWeb\SportsWeb.Application\obj\Debug\net8.0\ref\SportsWeb.Application.dll
