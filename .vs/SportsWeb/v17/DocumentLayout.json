@@ -1,12 +1,133 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\visioalstdio\\Restfule\\SportsWeb\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF484895-9314-4CD8-A17A-EBA44927092B}|SportsWeb.Infrastructure\\SportsWeb.Infrastructure.csproj|d:\\visioalstdio\\restfule\\sportsweb\\sportsweb.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF484895-9314-4CD8-A17A-EBA44927092B}|SportsWeb.Infrastructure\\SportsWeb.Infrastructure.csproj|solutionrelative:sportsweb.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F76023C-9DE4-4F7F-BD9C-9177C709DF12}|SportsWeb.API\\SportsWeb.API.csproj|d:\\visioalstdio\\restfule\\sportsweb\\sportsweb.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F76023C-9DE4-4F7F-BD9C-9177C709DF12}|SportsWeb.API\\SportsWeb.API.csproj|solutionrelative:sportsweb.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E514D6B7-E9F4-4D85-80F9-8C87DC378AC1}|SportsWeb.Application\\SportsWeb.Application.csproj|d:\\visioalstdio\\restfule\\sportsweb\\sportsweb.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E514D6B7-E9F4-4D85-80F9-8C87DC378AC1}|SportsWeb.Application\\SportsWeb.Application.csproj|solutionrelative:sportsweb.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF484895-9314-4CD8-A17A-EBA44927092B}|SportsWeb.Infrastructure\\SportsWeb.Infrastructure.csproj|d:\\visioalstdio\\restfule\\sportsweb\\sportsweb.infrastructure\\repositories\\repository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF484895-9314-4CD8-A17A-EBA44927092B}|SportsWeb.Infrastructure\\SportsWeb.Infrastructure.csproj|solutionrelative:sportsweb.infrastructure\\repositories\\repository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E90F33-66CE-461A-ADDB-97A5E9F9637E}|SportsWeb.CoreLayer\\SportsWeb.CoreLayer.csproj|d:\\visioalstdio\\restfule\\sportsweb\\sportsweb.corelayer\\interfaces\\iuserrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E90F33-66CE-461A-ADDB-97A5E9F9637E}|SportsWeb.CoreLayer\\SportsWeb.CoreLayer.csproj|solutionrelative:sportsweb.corelayer\\interfaces\\iuserrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E90F33-66CE-461A-ADDB-97A5E9F9637E}|SportsWeb.CoreLayer\\SportsWeb.CoreLayer.csproj|d:\\visioalstdio\\restfule\\sportsweb\\sportsweb.corelayer\\interfaces\\irpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E90F33-66CE-461A-ADDB-97A5E9F9637E}|SportsWeb.CoreLayer\\SportsWeb.CoreLayer.csproj|solutionrelative:sportsweb.corelayer\\interfaces\\irpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E90F33-66CE-461A-ADDB-97A5E9F9637E}|SportsWeb.CoreLayer\\SportsWeb.CoreLayer.csproj|d:\\visioalstdio\\restfule\\sportsweb\\sportsweb.corelayer\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E90F33-66CE-461A-ADDB-97A5E9F9637E}|SportsWeb.CoreLayer\\SportsWeb.CoreLayer.csproj|solutionrelative:sportsweb.corelayer\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SportsWeb.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "SportsWeb.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:55:28.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository .cs",
+              "DocumentMoniker": "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.Infrastructure\\Repositories\\Repository .cs",
+              "RelativeDocumentMoniker": "SportsWeb.Infrastructure\\Repositories\\Repository .cs",
+              "ToolTip": "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.Infrastructure\\Repositories\\Repository .cs",
+              "RelativeToolTip": "SportsWeb.Infrastructure\\Repositories\\Repository .cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:55:24.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRpository.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.CoreLayer\\Interfaces\\IRpository.cs",
+              "RelativeDocumentMoniker": "SportsWeb.CoreLayer\\Interfaces\\IRpository.cs",
+              "ToolTip": "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.CoreLayer\\Interfaces\\IRpository.cs",
+              "RelativeToolTip": "SportsWeb.CoreLayer\\Interfaces\\IRpository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBQwA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:22:25.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.CoreLayer\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "SportsWeb.CoreLayer\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.CoreLayer\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "SportsWeb.CoreLayer\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:22:24.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository .cs",
+              "DocumentMoniker": "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.CoreLayer\\Interfaces\\IUserRepository .cs",
+              "RelativeDocumentMoniker": "SportsWeb.CoreLayer\\Interfaces\\IUserRepository .cs",
+              "ToolTip": "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.CoreLayer\\Interfaces\\IUserRepository .cs",
+              "RelativeToolTip": "SportsWeb.CoreLayer\\Interfaces\\IUserRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:22:22.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "SportsWeb.Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "SportsWeb.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:31:19.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.API\\Program.cs",
+              "RelativeDocumentMoniker": "SportsWeb.API\\Program.cs",
+              "ToolTip": "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.API\\Program.cs",
+              "RelativeToolTip": "SportsWeb.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:49:52.348Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

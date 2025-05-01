@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SportsWeb.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f7e6443d1f728f73e8dd1ad71caad31e5461859")]
 [assembly: System.Reflection.AssemblyProductAttribute("SportsWeb.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SportsWeb.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

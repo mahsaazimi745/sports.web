@@ -31,7 +31,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.CoreLayer\\SportsWeb.CoreLayer.csproj": {
+                "projectPath": "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.CoreLayer\\SportsWeb.CoreLayer.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -49,6 +53,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational.Design": {
+              "target": "Package",
+              "version": "[2.0.0-preview1-final, )"
+            },
+            "UmbracoCms.Core": {
+              "target": "Package",
+              "version": "[8.18.15, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -96,14 +114,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.Application\\SportsWeb.Application.csproj": {
-                "projectPath": "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb.Application\\SportsWeb.Application.csproj"
-              },
-              "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb\\SportsWeb.csproj": {
-                "projectPath": "D:\\visioalstdio\\Restfule\\SportsWeb\\SportsWeb\\SportsWeb.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -121,28 +132,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[9.0.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Relational.Design": {
-              "target": "Package",
-              "version": "[2.0.0-preview1-final, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
